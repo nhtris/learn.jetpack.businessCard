@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BusinessCardApp</string>
+    <string name="userName">Johnny Nguyen</string>
+    <string name="userTitle">Dev link ting</string>
+    <string name="userPhone">+84-981-626-857</string>
+    <string name="userSocialMedia">facebook.com/triuet</string>
+    <string name="userEmail">nhtri.dev@gmail.com</string>
 </resources>
